@@ -2,7 +2,7 @@
 Themes I've created for the NNW MacOS app. Optimised for readability with a focus on typography and whitespace. 
 
 Full-width images, large headers, clean layouts.  
-
+<br><br>
 
 ## Manu
 
@@ -10,6 +10,7 @@ Inspired by Manuel's [website](https://manuelmoreale.com/), features a dignified
 
 <img src=/images/manu-light.png width="40%" style="margin-right: 40px"> <img src=/images/manu-dark.png width="40%">
 
+<br><br>
 
 
 ## system-ui
@@ -18,7 +19,7 @@ Modern MacOS feel. SF Pro, blue links and slick font weights.
 
 <img src=/images/system-ui-lght.png width="40%" style="margin-right: 40px"> <img src=/images/system-ui-dark.png width="40%">
 
-
+<br><br>
 
 ## Royal
 
@@ -26,7 +27,7 @@ System serif (New York), red underlines and justified text.
 
 <img src=/images/royal-light.png width="40%" style="margin-right: 40px"> <img src=/images/royal-dark.png width="40%">
 
-
+<br><br>
 
 ## Slab
 
