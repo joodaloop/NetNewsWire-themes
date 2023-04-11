@@ -19,7 +19,7 @@ Inspired by Manuel's [website](https://manuelmoreale.com/), features a dignified
 
 Modern MacOS feel. SF Pro, blue links and slick font weights.
 
-<img src=/images/system-ui-light.png width="40%" style="margin-right: 40px"> <img src=/images/system-ui-dark.png width="40%">
+<img src=/images/system-ui-lght.png width="40%" style="margin-right: 40px"> <img src=/images/system-ui-dark.png width="40%">
 
 
 
@@ -35,4 +35,4 @@ System serif (New York), red underlines and justified text.
 
 Monochrome sections. Avenir and thick outlines.
 
-<img src=/images/slab-lght.png width="40%" style="margin-right: 40px"> <img src=/images/slab-dark.png width="40%">
+<img src=/images/slab-light.png width="40%" style="margin-right: 40px"> <img src=/images/slab-dark.png width="40%">
