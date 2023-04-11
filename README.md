@@ -8,7 +8,7 @@ Full-width images, large headers, clean layouts.
 
 Inspired by Manuel's [website](https://manuelmoreale.com/), features a dignified serif, subtle box-shadows and highlighted links.
 
-<img src=/images/manu-light.png width="40%" style="margin-right: 40px"> <img src=/images/manu-dark.png width="40%">
+<img src=/images/manu-light.png width="40%"> <img src=/images/manu-dark.png width="42%">
 
 <br><br>
 
@@ -17,7 +17,7 @@ Inspired by Manuel's [website](https://manuelmoreale.com/), features a dignified
 
 Modern MacOS feel. SF Pro, blue links and slick font weights.
 
-<img src=/images/system-ui-lght.png width="40%" style="margin-right: 40px"> <img src=/images/system-ui-dark.png width="40%">
+<img src=/images/system-ui-lght.png width="40%"> <img src=/images/system-ui-dark.png width="40%">
 
 <br><br>
 
