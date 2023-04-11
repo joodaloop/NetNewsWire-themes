@@ -8,7 +8,7 @@ Full-width images, large headers, clean layouts.
 
 Inspired by Manuel's [website](https://manuelmoreale.com/), features a dignified serif, subtle box-shadows and highlighted links.
 
-<img src=/images/manu-light.png width="40%"> <img src=/images/manu-dark.png width="42%">
+<img src=/images/manu-light.png width="40%"> <img src=/images/manu-dark.png width="4o%">
 
 <br><br>
 
