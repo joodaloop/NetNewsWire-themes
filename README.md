@@ -1,10 +1,8 @@
 # NetNewsWire-themes
 Themes I've created for the NNW MacOS app. Optimised for readability with a focus on typography and whitespace. 
 
-Full-width images, large headers, clean layouts.
+Full-width images, large headers, clean layouts.  
 
-//
-/
 
 ## Manu
 
